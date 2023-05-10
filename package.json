@@ -1,11 +1,11 @@
 {
-  "name": "project-10",
+  "name": "html_86_Sanagursky96",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-10/",
+    "build": "vite build --base=/html_86_Sanagursky96/",
     "preview": "vite preview"
   },
   "devDependencies": {
